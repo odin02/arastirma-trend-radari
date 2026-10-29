@@ -52,7 +52,7 @@ function DashboardContent() {
         setError(true);
         setLoading(false);
       }
-    }, 800);
+    }, 10);
   }, [lang, turkeyFilter]);
 
   const changeLang = (newLang: string) => {
