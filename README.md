@@ -20,7 +20,7 @@ OpenAlex ve arXiv API'leri kullanılarak akademik yayın trendlerini anlık olar
 ## 🔗 Proje Linkleri
 * **Canlı Ürün:** [https://arastirma-trend-radari-two.vercel.app](https://arastirma-trend-radari-two.vercel.app)
 * **Vaka Çalışması:** [https://bengisu-portfolio-git-main-odin02.vercel.app](https://bengisu-portfolio-git-main-odin02.vercel.app)
-* **Demo Videosu:** [](https://drive.google.com/file/d/1lqlfH1W5lnlTJm-nOy6nKPx-_Ham40ri/view?usp=sharing)]
+* **Demo Videosu:** [(https://drive.google.com/file/d/1lqlfH1W5lnlTJm-nOy6nKPx-_Ham40ri/view?usp=sharing)]]
 
 ---
 
