@@ -151,6 +151,9 @@ function DashboardContent() {
 
       {!loading && data && (
         <main>
+          <div className="text-xs text-slate-400 text-right mb-4">
+             Son Güncelleme: {data.lastUpdate}
+          </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
             <div className="bg-white p-6 rounded-lg shadow-sm border border-slate-100 flex items-center justify-between">
               <div><p className="text-sm text-slate-500 mb-1">{text.kpi1}</p><p className="text-3xl font-bold">{data.kpis.total}</p></div>
